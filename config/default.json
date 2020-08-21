@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://mouad123:mouad123@devconector.qybov.mongodb.net/mern_db?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://mouad123:mouad123@devconector.qybov.mongodb.net/mern_db?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
